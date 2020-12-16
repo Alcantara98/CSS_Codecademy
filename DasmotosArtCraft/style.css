@@ -39,3 +39,8 @@ html {
     background-color: rgb(55, 48, 51);
     color: white;
 }
+
+img {
+    margin-left: -39px;
+    padding-left: -39px;
+}
